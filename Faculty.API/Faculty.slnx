@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="Faculty.API/Faculty.API.csproj" />
-  <Project Path="Faculty.Core/Faculty.Core.csproj" />
-  <Project Path="Faculty.Data/Faculty.Domain.csproj" />
-  <Project Path="Faculty.Infrastructure/Faculty.Infrastructure.csproj" />
-  <Project Path="Faculty.Service/Faculty.Service.csproj" />
-</Solution>

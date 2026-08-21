@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Src/" />
+  <Folder Name="/Src/Core/">
+    <Project Path="Faculty.Core/Faculty.Core.csproj" Id="f928952c-f4f9-4533-bbaa-c871a3514d78" />
+    <Project Path="Faculty.Domain/Faculty.Domain.csproj" Id="703c331a-81e4-4a8a-a837-7bb90bd27f13" />
+    <Project Path="Faculty.Service/Faculty.Service.csproj" Id="b2b7aaf6-1652-4556-bc7e-d2c20937d9e9" />
+  </Folder>
+  <Folder Name="/Src/External/">
+    <Project Path="Faculty.API/Faculty.API.csproj" />
+    <Project Path="Faculty.Infrastructure/Faculty.Infrastructure.csproj" Id="4797bb3e-0f6b-47fe-9bd7-99fa1db5faa8" />
+  </Folder>
+</Solution>
